@@ -189,6 +189,39 @@
     <ClCompile Include="存在重复元素.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="移除元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长公共子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="森林中的兔子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="实现strStr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="解码方法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大整除子集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="组合总和IV.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递增顺序搜索树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="在D天内送达包裹的能力.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉搜索树的范围和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="平方数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
